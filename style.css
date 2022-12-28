@@ -14,3 +14,11 @@ body {
     display: flex;
 
 }
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 16px;
+    margin: 0;
+}
