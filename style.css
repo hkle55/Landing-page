@@ -96,5 +96,18 @@ button {
     max-width: 150px;
     max-height: 300px;
     border-radius: 10px;
+    border: 2px solid blue;
     
+}
+
+.small-texts {
+    display: flex;
+    flex-direction: row wrap;
+    justify-content: space-evenly;
+    margin-bottom: 8px;
+}
+
+.subtext {
+    max-width: 150px;
+    text-align: center;
 }
