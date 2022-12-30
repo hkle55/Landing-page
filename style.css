@@ -85,3 +85,13 @@ img {
     text-align: center;
     margin-top: 40px;
 }
+
+.square-images {
+    display: flex;
+}
+
+.image-box{
+    max-width: fit-content;
+    max-height: fit-content;
+    border-radius: 
+}
