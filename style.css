@@ -47,5 +47,10 @@ a {
 }
 
 button {
-    color: #3882f6;
+    background-color: #3882f6;
+    color: white;
+    border-radius: 4px;
+    padding: 6px 16px;
+    border: 0;
+    font-weight: bold;
 }
