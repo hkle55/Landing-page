@@ -29,9 +29,10 @@ ul {
     margin: 0;
 }
 
-.header-links {
+a {
     font-size: 18px;
     color: #e5e7eb;
+    text-decoration: none;
 }
 
 .hero-big {
@@ -43,4 +44,8 @@ ul {
 .hero-small  {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+button {
+    color: #3882f6;
 }
