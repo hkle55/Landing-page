@@ -111,8 +111,10 @@ button {
 .subtext {
     max-width: 150px;
     text-align: center;
+    font-size: 18px;
+    color: grey;
 }
 
 .section-two {
-    padding-bottom: 100px;
+    padding-bottom: 80px;
 }
