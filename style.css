@@ -150,3 +150,12 @@ button {
     padding-top: 80px;
     padding-bottom: 80px;
 }
+
+.CTA-box {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+    background-color: #3882f6;
+    padding: 50px 120px;
+    border-radius: 8px;
+}
