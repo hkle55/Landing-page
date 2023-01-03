@@ -163,3 +163,9 @@ button {
 .CTA-text {
     color: white;
 }
+
+.cta-butt {
+    border: solid white;
+    padding: 0 40px;
+    max-width: 200px;
+}
