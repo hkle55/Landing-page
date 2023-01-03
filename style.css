@@ -68,10 +68,10 @@ button {
     background-color: #3882f6;
     color: white;
     border-radius: 4px;
-    padding: 6px 16px;
+    padding: 9px 16px;
     border: 0;
     font-weight: bold;
-    max-width: 100px;
+    max-width: 120px;
 }
 
 .img-one {
