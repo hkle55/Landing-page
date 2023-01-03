@@ -133,7 +133,7 @@ button {
 .yoda {
     font-size: 36px;
     font-style: italic;
-    color: #1f2937;
+    color: rgb(78, 74, 74);
     max-width: 600px;
     text-align: center;
 }
@@ -177,4 +177,11 @@ button {
 
 .cta-2 {
     color: lightgrey;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px;
+    background-color: #1f2937;
+    color: lightgray;
 }
